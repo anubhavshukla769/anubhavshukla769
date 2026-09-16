@@ -18,8 +18,9 @@
 
 <p>
   <a href="mailto:anubhavshukla769@gmail.com">📧 Email</a> •
-  <a href="https://github.com/anubhavshukla769">🐙 GitHub</a> •
-  <a href="https://leetcode.com/u/anubhavshukla769/">🧩 LeetCode</a>
+  <a href="https://www.linkedin.com/">💼 LinkedIn</a> •
+  <a href="https://leetcode.com/u/anubhavshukla769/">🧩 LeetCode</a> •
+  <a href="https://github.com/anubhavshukla769">🐙 GitHub</a>
 </p>
 
 </div>
@@ -30,13 +31,13 @@
 
 ☕ Building backend systems with Java, Spring Boot, REST APIs and microservices
 
-🧩 Practicing Data Structures & Algorithms
+🧩 Practicing Data Structures & Algorithms and improving problem-solving skills
 
-🤖 Exploring AI/ML and AI-powered software applications
+🤖 Exploring AI/ML and learning how to integrate AI into software applications
 
-🌱 Currently learning React
+🌱 Currently learning React to become stronger across the full stack
 
-🚀 Interested in scalable, practical and production-oriented software
+🚀 Interested in building scalable, practical and production-oriented software
 
 💬 Ask me about Java, Backend Development, Spring Boot, DSA and APIs
 
@@ -50,7 +51,7 @@
 
 🔥 CodeMesh
 
-Real-time collaborative coding platform for writing, sharing and executing code together.
+A real-time collaborative coding platform for developers to write, share and execute code together.
 
 Tech: Node.js TypeScript React Socket.IO Docker Piston API Gemini API
 
@@ -64,7 +65,7 @@ Tech: Node.js TypeScript React Socket.IO Docker Piston API Gemini API
 
 🏦 BankSphere
 
-Backend-focused banking system built with Spring Boot microservices, secure authentication and asynchronous communication.
+A backend-focused banking system built around Spring Boot microservices, secure authentication and asynchronous communication.
 
 Tech: Java Spring Boot Kafka Keycloak Kubernetes
 
@@ -81,43 +82,45 @@ Tech: Java Spring Boot Kafka Keycloak Kubernetes
 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts" alt="Java Python C C++ JavaScript TypeScript" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,sql" alt="Languages" />
 </p>
 
 ⚙️ Backend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,react" alt="Spring Boot Node.js React" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react" alt="Backend and Frameworks" />
 </p>
 
 🗄️ Databases & Messaging
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,rabbitmq" alt="MySQL PostgreSQL MongoDB Redis Kafka RabbitMQ" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,rabbitmq" alt="Databases and Messaging" />
 </p>
 
 ☁️ DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman,maven,aws" alt="Docker Kubernetes Git GitHub Linux Postman Maven AWS" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman,maven,aws" alt="DevOps and Tools" />
 </p>
 
 🤖 AI / ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow" alt="Python OpenCV TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow" alt="AI and ML" />
 </p>
 
 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anubhavshukla769&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anubhavshukla769&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavshukla769&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anubhavshukla769&theme=tokyonight" alt="GitHub Summary Stats" />
 </p>
+
+The summary card includes profile-level metrics such as Total Stars, Total Repositories, Total Forks and Open Issues.
 
 🔥 Contribution Streak
 
@@ -145,10 +148,36 @@ Tech: Java Spring Boot Kafka Keycloak Kubernetes
   </a>
 </p>
 
+<p align="center">
+  <b>140+ problems solved and counting 🚀</b>
+</p>
+
+📚 Currently Learning
+
+Java & Spring Boot        ████████████████████  Backend
+Data Structures & Algo    ████████████████████  Problem Solving
+React                     ███████████████░░░░░  Full Stack
+System Design             ██████████░░░░░░░░░░  Scaling & Architecture
+AI Integration            ██████████░░░░░░░░░░  AI-powered Applications
+
+🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:anubhavshukla769@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/anubhavshukla769/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/anubhavshukla769">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 <div align="center">
 
-💡 Build. Break. Learn. Repeat.
+💡 "Build. Break. Learn. Repeat."
 
-⭐ Explore my repositories and follow along with my journey.
+⭐ If you find something useful here, feel free to explore the repositories.
 
 </div>
